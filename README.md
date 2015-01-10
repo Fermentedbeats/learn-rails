@@ -1,2 +1,3 @@
-# learn-rails
-tutorial @ http://learn-rails.com/
+RailsApps project 
+==
+http://learn-rails.com/
